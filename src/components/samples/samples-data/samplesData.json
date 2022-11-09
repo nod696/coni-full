@@ -1,0 +1,59 @@
+{
+  "divorce": [
+    {
+      "name": "Исковое заявление о расторжении брака",
+      "ref": "https://minjust.tatarstan.ru/rus/file/pub/pub_360446.doc"
+    },
+    {
+      "name": "Бланк свидетельства о заключении брака",
+      "ref": "https://zakonius.ru/wp-content/uploads/docs/blank-svidetelstvo-o-zaklyuchenii-braka.doc"
+    },
+
+    {
+      "name": "Соглашение об уплате алиментов на содержание ребенка в долях к заработку",
+      "ref": "https://vseiski.ru/download/soglashenie-alimenty-doli.doc"
+    },
+    {
+      "name": "Исковое заявление о разделе имущества",
+      "ref": "https://mos-sud.ru/getGalleryImage/84b46ff9-baac-4d29-ad55-3ff97370b6a6"
+    }
+  ],
+  "contract": [
+    {
+      "name": "Исковое заявление о расторжении договора купли-продажи",
+      "ref": "http://promtorg.volgograd.ru/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D1%81%D1%82%D0%BE%D1%80%D0%B4%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0,%20%D0%B2%D0%B7%D1%8B%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%83%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B8,%20%D0%BC%D0%BE%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B2%D1%80%D0%B5%D0%B4%D0%B0,%20%D1%88%D1%82%D1%80%D0%B0%D1%84%D0%B0%20%D0%B2%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82.doc"
+    }
+  ],
+  "consumer": [
+    {
+      "name": "Исковое заявление о расторжении договора купли-продажи",
+      "ref": "http://promtorg.volgograd.ru/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D1%81%D1%82%D0%BE%D1%80%D0%B4%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0,%20%D0%B2%D0%B7%D1%8B%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%83%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B8,%20%D0%BC%D0%BE%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B2%D1%80%D0%B5%D0%B4%D0%B0,%20%D1%88%D1%82%D1%80%D0%B0%D1%84%D0%B0%20%D0%B2%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82.doc"
+    },
+    {
+        "name": "Исковое заявление о замене товара ненадлежащего качества",
+        "ref": "http://promtorg.volgograd.ru/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%20%D0%BD%D0%B5%D0%BD%D0%B0%D0%B4%D0%BB%D0%B5%D0%B6%D0%B0%D1%89%D0%B5%D0%B3%D0%BE%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx"
+    }
+  ],
+  "damage": [
+    {
+        "name": "Исковое заявление о возмещении ущерба и компенсации морального вреда",
+        "ref": "https://www.mo-yamal.ru/load/oi6kjvdsm"
+    }
+  ],
+  "solicitation": [
+    {
+      "name": "Ходатайство о вызове свидетелей",
+      "ref": "http://nnoblsud.ru/docs/forms/Obrazci-hodatajstv-v-grazhdanskom-processe/vizov_svideteley.doc"
+    },
+    {
+        "name": "Ходатайство об истребовании доказательств",
+        "ref": "http://nnoblsud.ru/docs/forms/Obrazci-hodatajstv-v-grazhdanskom-processe/istrebovanie_dokazatelstv.doc"
+    },
+    {
+        "name": "Ходатайство о назначении судебной экспертизы",
+        "ref": "http://nnoblsud.ru/docs/forms/Obrazci-hodatajstv-v-grazhdanskom-processe/nazn%20sud%20eksper%20gr%20pr.doc"
+    }
+  ]
+}
+
+
